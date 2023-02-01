@@ -5,7 +5,7 @@ In this repository, I recalled the syntax of the **Python** programming language
 Link to the course is [**Python: from zero to hero**](https://www.udemy.com/complete-python-bootcamp/)  
 
 
-• [**Python Object and Data Structure Basics/**](https://github.com/aziart/udemy-python-fzth/tree/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics)  
+:large_orange_diamond: [**Python Object and Data Structure Basics/**](https://github.com/aziart/udemy-python-fzth/tree/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics)  
 
 > • [**Introduction to Python Data Types**](https://github.com/aziart/udemy-python-fzth/blob/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics/03-01%20-%20Introduction%20to%20Python%20Data%20Types.ipynb)  
 > • [**Python Numbers**](https://github.com/aziart/udemy-python-fzth/blob/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics/03-02%20-%20Python%20Numbers.ipynb)  
