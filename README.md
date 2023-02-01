@@ -5,7 +5,7 @@ In this repository, I recalled the syntax of the **Python** programming language
 Link to the course is [**Python: from zero to hero**](https://www.udemy.com/complete-python-bootcamp/)  
 
 
-:large_orange_diamond: [**Python Object and Data Structure Basics/**](https://github.com/aziart/udemy-python-fzth/tree/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics)  
+:o: [**Python Object and Data Structure Basics/**](https://github.com/aziart/udemy-python-fzth/tree/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics)  
 
 > • [**Introduction to Python Data Types**](https://github.com/aziart/udemy-python-fzth/blob/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics/03-01%20-%20Introduction%20to%20Python%20Data%20Types.ipynb)  
 > • [**Python Numbers**](https://github.com/aziart/udemy-python-fzth/blob/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics/03-02%20-%20Python%20Numbers.ipynb)  
@@ -23,13 +23,13 @@ Link to the course is [**Python: from zero to hero**](https://www.udemy.com/comp
 > • [**Python Objects and Data Structures Assessment Test Overview and Solutions**](https://github.com/aziart/udemy-python-fzth/blob/main/003%20-%20Python%20Object%20and%20Data%20Structure%20Basics/03-14%20-%20Python%20Objects%20and%20Data%20Structures%20Assessment%20Test%20Overview%20and%20Solutions.ipynb)  
 
 
-• [**Python Comparison Operators/**](https://github.com/aziart/udemy-python-fzth/tree/main/004%20-%20Python%20Comparison%20Operators)  
+:o: [**Python Comparison Operators/**](https://github.com/aziart/udemy-python-fzth/tree/main/004%20-%20Python%20Comparison%20Operators)  
 
 > • [**Comparison Operators in Python**](https://github.com/aziart/udemy-python-fzth/blob/main/004%20-%20Python%20Comparison%20Operators/04-01%20-%20Comparison%20Operators%20in%20Python.ipynb)  
 > • [**Chaining Comparison Operators in Python with Logical Operators**](https://github.com/aziart/udemy-python-fzth/blob/main/004%20-%20Python%20Comparison%20Operators/04-02%20-%20Chaining%20Comparison%20Operators%20in%20Python%20with%20Logical%20Operators.ipynb)  
 
 
-• [**Python Statements/**](https://github.com/aziart/udemy-python-fzth/tree/main/005%20-%20Python%20Statements)  
+:o: [**Python Statements/**](https://github.com/aziart/udemy-python-fzth/tree/main/005%20-%20Python%20Statements)  
 
 > • [**If Elif and Else Statements in Python**](https://github.com/aziart/udemy-python-fzth/blob/main/005%20-%20Python%20Statements/05-01%20-%20If%20Elif%20and%20Else%20Statements%20in%20Python.ipynb)  
 > • [**For Loops in Python**](https://github.com/aziart/udemy-python-fzth/blob/main/005%20-%20Python%20Statements/05-02%20-%20For%20Loops%20in%20Python.ipynb)  
@@ -39,7 +39,7 @@ Link to the course is [**Python: from zero to hero**](https://www.udemy.com/comp
 > • [**Statements Assessment Test**](https://github.com/aziart/udemy-python-fzth/blob/main/005%20-%20Python%20Statements/05-06%20-%20Statements%20Assessment%20Test.ipynb)  
 
 
-• [**Methods and Functions/**](https://github.com/aziart/udemy-python-fzth/tree/main/006%20-%20Methods%20and%20Functions)  
+:o: [**Methods and Functions/**](https://github.com/aziart/udemy-python-fzth/tree/main/006%20-%20Methods%20and%20Functions)  
 
 > • [**Methods and the Python Documentation**](https://github.com/aziart/udemy-python-fzth/blob/main/006%20-%20Methods%20and%20Functions/06-01%20-%20Methods%20and%20the%20Python%20Documentation.ipynb)  
 > • [**Basics of Python Functions**](https://github.com/aziart/udemy-python-fzth/blob/main/006%20-%20Methods%20and%20Functions/06-02%20-%20Basics%20of%20Python%20Functions.ipynb)  
@@ -53,12 +53,12 @@ Link to the course is [**Python: from zero to hero**](https://www.udemy.com/comp
 > • [**Functions and Methods Homework**](https://github.com/aziart/udemy-python-fzth/blob/main/006%20-%20Methods%20and%20Functions/06-10%20-%20Functions%20and%20Methods%20Homework.ipynb)  
 
 
-• [**Milestone Project 1/**](https://github.com/aziart/udemy-python-fzth/tree/main/007%20-%20Milestone%20Project%201)  
+:o: [**Milestone Project 1/**](https://github.com/aziart/udemy-python-fzth/tree/main/007%20-%20Milestone%20Project%201)  
 > • [**Recall before Milestone Project**](https://github.com/aziart/udemy-python-fzth/blob/main/007%20-%20Milestone%20Project%201/07-01(-04)%20-%20Recall%20before%20Milestone%20Project.ipynb)  
 > • [**Milestone Project 1 - Walkthrough Steps Workbook**](https://github.com/aziart/udemy-python-fzth/blob/main/007%20-%20Milestone%20Project%201/07-05%20-%20Milestone%20Project%201%20-%20Walkthrough%20Steps%20Workbook.ipynb)  
 
 
-• [**Object Oriented Programming/**](https://github.com/aziart/udemy-python-fzth/tree/main/008%20-%20Object%20Oriented%20Programming)  
+:o: [**Object Oriented Programming/**](https://github.com/aziart/udemy-python-fzth/tree/main/008%20-%20Object%20Oriented%20Programming)  
 
 > • [**Attributes and Class Keyword**](https://github.com/aziart/udemy-python-fzth/blob/main/008%20-%20Object%20Oriented%20Programming/08-01%20-%20Attributes%20and%20Class%20Keyword.ipynb)  
 > • [**Class Object Attributes and Methods**](https://github.com/aziart/udemy-python-fzth/blob/main/008%20-%20Object%20Oriented%20Programming/08-02%20-%20Class%20Object%20Attributes%20and%20Methods.ipynb)  
@@ -72,7 +72,7 @@ Link to the course is [**Python: from zero to hero**](https://www.udemy.com/comp
 • [**Modules and Packages/**](https://github.com/aziart/udemy-python-fzth/tree/main/009%20-%20Modules%20and%20Packages)  
 
 
-• [**Errors and Exception Handling/**](https://github.com/aziart/udemy-python-fzth/tree/main/010%20-%20Errors%20and%20Exception%20Handling)  
+:o: [**Errors and Exception Handling/**](https://github.com/aziart/udemy-python-fzth/tree/main/010%20-%20Errors%20and%20Exception%20Handling)  
 
 > • [**Errors and Exception Handling.ipynb**](https://github.com/aziart/udemy-python-fzth/blob/main/010%20-%20Errors%20and%20Exception%20Handling/10-01%20-%20Errors%20and%20Exception%20Handling.ipynb)  
 > • [**Errors and Exceptions Homework (solutions).ipynb**](https://github.com/aziart/udemy-python-fzth/blob/main/010%20-%20Errors%20and%20Exception%20Handling/10-02-Errors%20and%20Exceptions%20Homework%20(solutions).ipynb)  
