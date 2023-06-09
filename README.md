@@ -69,7 +69,7 @@ Link to the course is [**Python: from zero to hero**](https://www.udemy.com/comp
 > • [**ADDITION: Python OOP Tutorials by Corey Schafer on YouTube**](https://github.com/aziart/udemy-python-fzth/blob/main/008%20-%20Object%20Oriented%20Programming/08-add.%20Python%20OOP%20Tutorials%20by%20Corey%20Schafer%20on%20YouTube.ipynb) - [YouTube Link](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)  
 
 
-• [**Modules and Packages/**](https://github.com/aziart/udemy-python-fzth/tree/main/009%20-%20Modules%20and%20Packages)  
+:o: [**Modules and Packages/**](https://github.com/aziart/udemy-python-fzth/tree/main/009%20-%20Modules%20and%20Packages)  
 
 
 :o: [**Errors and Exception Handling/**](https://github.com/aziart/udemy-python-fzth/tree/main/010%20-%20Errors%20and%20Exception%20Handling)  
